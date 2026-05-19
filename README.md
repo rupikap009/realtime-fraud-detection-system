@@ -1,7 +1,7 @@
 # Real-Time Fraud Detection System with Explainable AI & Live Dashboard
 
 ### 🔗 Production Deployment Live Link
-👉 **[Access the Live Interactive Fraud Dashboard Here](https://your-app-name.streamlit.app)** *(Note: Replace this placeholder with your live .streamlit.app URL once the cloud build completes successfully)*
+👉 **[Access the Live Interactive Fraud Dashboard Here](http://localhost:8501/)** *(Note: Replace this placeholder with your live .streamlit.app URL once the cloud build completes successfully)*
 
 ## 📈 Internship Capstone Project Final Overview
 * **Week 1 Baseline Architecture:** 83 / 100
